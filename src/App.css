@@ -1,0 +1,14 @@
+
+.navbar-brand {
+  color: rgb(247, 25, 225);
+  font-weight: bold;
+  font-family: cursive;
+}
+*{
+  font-family: cursive;
+    
+}
+#btn:hover{
+ box-shadow: 1rem 1rem 1rem black;
+ 
+}
